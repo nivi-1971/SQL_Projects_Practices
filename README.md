@@ -30,13 +30,21 @@ This dataset is widely used for business analytics and is ideal for SQL-based ex
 🧮 SQL Concepts Used
 
 ✔ SELECT & DISTINCT
+                  
 ✔ WHERE filtering
+                  
 ✔ ORDER BY sorting
+                                    
 ✔ Aggregation (SUM, AVG, COUNT)
+                    
 ✔ GROUP BY & HAVING
+                  
 ✔ Subqueries
+              
 ✔ UNION ALL
+                            
 ✔ Profit ratio calculations
+      
 ✔ Performance comparison queries
 
 📝 Key SQL Queries Included
@@ -70,29 +78,44 @@ Performance comparison (city vs. region average)
 
 📈 Insights Identified
 Over-discounted sub-categories are causing profit losses.
+                                                                                  
 Technology category shows strong profitability, especially in the West region.
+                                                                
 South region underperforms and needs targeted sales strategy.
+                                                                          
 High-sales but low-profit cities need optimization in pricing/discounts.
+                                                                                  
 Profitability varies across shipping modes, requiring logistics adjustments.
+
 Cities with bulk purchases offer opportunities for loyalty programs.
 
 🎯 Recommendations
-Reduce high discounts and optimize pricing.
+Reduce high discounts and optimize pricing.  
+                                                              
 Focus on Technology and other high-profit categories.
+                                                        
 Improve sales strategy in low-performing regions.
+                                                    
 Encourage customers toward profitable shipping modes.
+
 Strengthen partnerships and bundle offers in high-quantity cities.
 
 🧠 What I Learned (Project Reflections)
 Practical use of SQL for business analytics
+                                              
 Turning raw data into actionable insights
+                                                              
 Writing efficient queries with subqueries & aggregations
+                                          
 Presenting data in clear, readable formats
+
 Understanding how SQL helps optimize real-world business decisions
 
 📂 Project Files
 SQL.SuperMarket_Niveditha_H_S.pdf – Full analysis & screenshots
+                                                      
 SQL queries (optional: can be uploaded as .sql file)
+
 README.md (this file)
 
 🚀 Future Improvements
