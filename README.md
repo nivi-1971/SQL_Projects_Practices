@@ -1,6 +1,7 @@
 📊 Supermarket Sales Analysis Using SQL
 
 Author: Niveditha H S
+
 Institute: Besant Technologies
 
 📌 Project Overview
@@ -11,12 +12,19 @@ The goal was to perform end-to-end SQL exploration, aggregation, and business in
 🗂️ Dataset Description
 
 The dataset includes sales transactions with fields such as:
+
 Ship Mode – Delivery type (Standard, Second Class, First Class, Same Day)
+
 Segment – Consumer, Corporate, Home Office
+
 Location – City, State, Region
+
 Product Info – Category, Sub-Category
+
 Sales & Profit
+
 Quantity, Discount
+
 This dataset is widely used for business analytics and is ideal for SQL-based exploration.
 
 🧮 SQL Concepts Used
